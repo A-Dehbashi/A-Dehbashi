@@ -4,4 +4,4 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=A-Dehbashi&theme=vue-dark&show_icons=true&count_private=true)
 
-![Github Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Dehbashi&theme=vue-dark&show_icons=true)
+![Github Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Dehbashi&theme=vue-dark)
