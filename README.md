@@ -6,7 +6,7 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 
 ### 💪 Skills
 
-linux
+https://github.com/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
