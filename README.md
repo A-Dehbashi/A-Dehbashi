@@ -1,12 +1,12 @@
 <img src="Header.png" width="fill">
 
-# Hi There
+# 👋 Hi There
 
-My name is Amir Dehbashi and currently i am a master student in Software Engineering. I expertise in Android developing and all other stuffs that's related with this profession. Always trying to learn more knowledge at my education field upon changing my current position as an Android Developer to a much higher position like Full-Stack developer in Mobile Sofware Engineering.
+My name is Amir Dehbashi and currently i am a master student in Software Engineering. I expertise in Android developing and all other stuffs that's related with this profession. Always trying to learn more knowledge at my education field upon changing my current position as an Android Developer to a much higher position related with Mobile Sofware Engineering.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 💪 Skills
+### 💪 Skills & Overwiews
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&color=0078D6)
 ![](https://img.shields.io/badge/Languages-Kotlin-informational?style=flat&color=0095DS)
@@ -23,7 +23,7 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🌐 Speaks
+### 🌐 Language Speaking
 
 * English <br/>
 * Persian <br/>
@@ -31,14 +31,16 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📋 Degress
+### 📋 University Degress
 
-Master - Computer Engineering - Software Development <br/>
-Bachelor - Electrical Engineering - Power Systems
+Education | Field | Orientation
+------------ | ------------- | -------------
+Master | Computer Engineering | Software Development
+Bachelor | Electrical Engineering | Power Systems
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📫 Contacts
+### 📫 Contact Me
 
 
 
