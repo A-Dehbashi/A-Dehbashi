@@ -6,7 +6,7 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 💪 Skills & Overviews
+### 💻 Skills & Overviews
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&color=0078D6)
 ![](https://img.shields.io/badge/Languages-Java-informational?style=flat&color=007396)
