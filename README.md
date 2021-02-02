@@ -6,7 +6,17 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 
 ### 💪 Skills
 
-
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&color=0078D6)
+![](https://img.shields.io/badge/Languages-Java-informational?style=flat&color=007396)
+![](https://img.shields.io/badge/Languages-Kotlin-informational?style=flat&color=0095DS)
+![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&color=3DDC84)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&color=FF6C37)
+![](https://img.shields.io/badge/Tools-Fork-informational?style=flat&color=00AFF0)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&color=6f42c1)
+![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&color=0079BF)
+![](https://img.shields.io/badge/Tools-GooglePlay-informational?style=flat&color=414141)
+![](https://img.shields.io/badge/Design-AdobePs-informational?style=flat&color=31A8FF)
+![](https://img.shields.io/badge/Design-AdobeXd-informational?style=flat&color=FF61F6)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,5 +43,5 @@ Bachelor - Electrical Engineering - Power Systems
 
 <!--- ### 📈 Stats --->
 
-<!--- ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=A-Dehbashi&theme=vue-dark&show_icons=true&count_private=true) --->
-<!--- ![Github Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Dehbashi&theme=vue-dark&layout=compact) --->
+<!--- ![](https://github-readme-stats.vercel.app/api?username=A-Dehbashi&theme=vue-dark&show_icons=true&count_private=true) --->
+<!--- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Dehbashi&theme=vue-dark&layout=compact) --->
