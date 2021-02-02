@@ -12,13 +12,16 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 
 ### 🌐 Speaks
 
-
+English <br/>
+Persian <br/>
+Arabic
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📋 Degress
 
-
+Master - Computer Engineering - Software Development <br/>
+Bachelor - Electrical Engineering - Power Systems
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
