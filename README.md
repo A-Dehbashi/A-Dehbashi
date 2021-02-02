@@ -12,16 +12,16 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 ![](https://img.shields.io/badge/Languages-Java-informational?style=flat&color=007396)
 ![](https://img.shields.io/badge/Languages-Kotlin-informational?style=flat&color=0095DS)
 ![](https://img.shields.io/badge/Languages-Swift-informational?style=flat&color=FA7343)
-![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&color=3DDC84)
-![](https://img.shields.io/badge/Tools-Ios-informational?style=flat&color=000000)
+![](https://img.shields.io/badge/Tools-Android%20Studio-informational?style=flat&color=3DDC84)
+![](https://img.shields.io/badge/Tools-IOS-informational?style=flat&color=000000)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&color=FF6C37)
 ![](https://img.shields.io/badge/Tools-Fork-informational?style=flat&color=00AFF0)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&color=6f42c1)
 ![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&color=0079BF)
-![](https://img.shields.io/badge/Tools-GooglePlay-informational?style=flat&color=000000)
-![](https://img.shields.io/badge/Design-AdobePs-informational?style=flat&color=31A8FF)
-![](https://img.shields.io/badge/Design-AdobeXd-informational?style=flat&color=FF61F6)
-![](https://img.shields.io/badge/Design-AdobeAi-informational?style=flat&color=FF9A00)
+![](https://img.shields.io/badge/Tools-Google%20Play-informational?style=flat&color=000000)
+![](https://img.shields.io/badge/Design-Adobe%20Ps-informational?style=flat&color=31A8FF)
+![](https://img.shields.io/badge/Design-Adobe%20Xd-informational?style=flat&color=FF61F6)
+![](https://img.shields.io/badge/Design-Adobe%20Ai-informational?style=flat&color=FF9A00)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
