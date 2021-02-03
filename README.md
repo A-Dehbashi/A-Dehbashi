@@ -9,6 +9,7 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 ### 💻 Skills & Overviews
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white)
+![](https://img.shields.io/badge/MacOS-7D8084?style=flat&logo=MacOS&logoColor=white)
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white)
