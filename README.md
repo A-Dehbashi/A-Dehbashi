@@ -51,7 +51,7 @@ Bachelor | Electrical Engineering | Power Systems
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📈 Stats
+<!--- ### 📈 Stats --->
 
-![](https://github-readme-stats.vercel.app/api?username=A-Dehbashi&theme=vue-dark&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Dehbashi&theme=vue-dark&layout=compact)
+<!--- ![](https://github-readme-stats.vercel.app/api?username=A-Dehbashi&theme=vue-dark&show_icons=true&count_private=true) --->
+<!--- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Dehbashi&theme=vue-dark&layout=compact) --->
