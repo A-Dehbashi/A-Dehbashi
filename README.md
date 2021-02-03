@@ -8,9 +8,9 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 
 ### 💻 Skills & Overviews
 
-![](https://img.shields.io/badge/Adobe%20Ps-31A8FF?style=flat&logo=Adobe%20Ps&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20Xd-FF61F6?style=flat&logo=Adobe%20Xd&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20Ai-FF9A00?style=flat&logo=Adobe%20Ai&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white)
 ![](https://img.shields.io/badge/OS-0078D6?style=flat&logo=OS&logoColor=white)
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-0095DS?style=flat&logo=Kotlin&logoColor=white)
