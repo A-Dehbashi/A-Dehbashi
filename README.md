@@ -16,7 +16,7 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 ![](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=Google%20Play&logoColor=white)
 ![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
-![](https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white)
+![](https://img.shields.io/badge/iOS-20232A?style=flat&logo=iOS&logoColor=white)
 ![](https://img.shields.io/badge/Github-6f42c1?style=flat&logo=Github&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white)
