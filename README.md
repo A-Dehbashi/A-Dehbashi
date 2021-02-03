@@ -8,20 +8,19 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 
 ### 💻 Skills & Overviews
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&color=0078D6)
-![](https://img.shields.io/badge/Languages-Java-informational?style=flat&color=007396)
-![](https://img.shields.io/badge/Languages-Kotlin-informational?style=flat&color=0095DS)
-![](https://img.shields.io/badge/Languages-Swift-informational?style=flat&color=FA7343)
-![](https://img.shields.io/badge/Tools-Android%20Studio-informational?style=flat&color=3DDC84)
-![](https://img.shields.io/badge/Tools-IOS-informational?style=flat&color=000000)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&color=FF6C37)
-![](https://img.shields.io/badge/Tools-Fork-informational?style=flat&color=00AFF0)
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&color=6f42c1)
-![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&color=0079BF)
-![](https://img.shields.io/badge/Tools-Google%20Play-informational?style=flat&color=000000)
-![](https://img.shields.io/badge/Design-Adobe%20Ps-informational?style=flat&color=31A8FF)
-![](https://img.shields.io/badge/Design-Adobe%20Xd-informational?style=flat&color=FF61F6)
-![](https://img.shields.io/badge/Design-Adobe%20Ai-informational?style=flat&color=FF9A00)
+![](https://img.shields.io/badge/Adobe%20Ps-31A8FF?style=flat&logo=Adobe%20Ps&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Xd-FF61F6?style=flat&logo=Adobe%20Xd&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Ai-FF9A00?style=flat&logo=Adobe%20Ai&logoColor=white)
+![](https://img.shields.io/badge/OS-0078D6?style=flat&logo=OS&logoColor=white)
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095DS?style=flat&logo=Kotlin&logoColor=white)
+![](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white)
+![](https://img.shields.io/badge/Google%20Play-000000?style=flat&logo=Google%20Play&logoColor=white)
+![](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white)
+![](https://img.shields.io/badge/IOS-000000?style=flat&logo=IOS&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/Github-6f42c1?style=flat&logo=Github&logoColor=white)
+![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -44,7 +43,7 @@ Bachelor | Electrical Engineering | Power Systems
 
 ### 📫 Contact Me
 
-
+![](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
