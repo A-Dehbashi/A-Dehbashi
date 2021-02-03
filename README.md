@@ -8,20 +8,20 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 
 ### 💻 Skills & Overviews
 
-![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white)
-![](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)
-![](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white)
-![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
-![](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=Google%20Play&logoColor=white)
-![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
-![](https://img.shields.io/badge/iOS-20232A?style=flat&logo=iOS&logoColor=white)
-![](https://img.shields.io/badge/Github-6f42c1?style=flat&logo=Github&logoColor=white)
-![](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white)
+[![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=Google%20Play&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/iOS-20232A?style=flat&logo=iOS&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/Github-6f42c1?style=flat&logo=Github&logoColor=white)](https://github.com)
+[![](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white)](https://www.google.com)
+[![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white)](https://www.google.com)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
