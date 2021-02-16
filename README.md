@@ -21,6 +21,7 @@ My name is Amir Dehbashi and currently i am a master student in Software Enginee
 [![](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com)
 [![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)](https://www.adobe.com/products/photoshop)
 [![](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white)](https://www.adobe.com/products/xd)
+[![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)](https://www.figma.com)
 [![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white)](https://www.adobe.com/products/illustrator)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
