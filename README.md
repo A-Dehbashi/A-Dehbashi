@@ -54,9 +54,9 @@ Bachelor | Electrical Engineering | Power Systems
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/amir_dehbashi)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/mh_dehbsahi) <br/>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --->
 
-### 📈 Stats
+<!--- ### 📈 Stats --->
 
-![](https://github-readme-stats.vercel.app/api?username=A-Dehbashi&theme=vue-dark&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Dehbashi&theme=vue-dark&layout=compact)
+<!--- ![](https://github-readme-stats.vercel.app/api?username=A-Dehbashi&theme=vue-dark&show_icons=true&count_private=true) --->
+<!--- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Dehbashi&theme=vue-dark&layout=compact) --->
