@@ -54,7 +54,7 @@ Bachelor | Electrical Engineering | Power Systems
 ![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)
 ![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)
 ![](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)
-![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://t.me/amir_dehbashi)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
