@@ -51,6 +51,7 @@ Bachelor | Electrical Engineering | Power Systems
 
 ### 📫 Contact Me
 
+[![](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](a.dehbashi100@gmail.com)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/amir_dehbashi)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/mh_dehbsahi)
 
