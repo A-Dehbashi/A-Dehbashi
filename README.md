@@ -58,5 +58,6 @@ Bachelor | Electrical Engineering | Power Systems
 
 ### 📈 Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=A-Dehbashi&theme=vue-dark&show_icons=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Dehbashi&theme=vue-dark&layout=compact)
