@@ -2,7 +2,8 @@
 
 # 👋 Hi There
 
-I'm Amir Dehbashi from Iran and currently are a master student in Software Engineering. I expertise in Android developing and all other cool stuffs that's related with this profession. Always trying to learn more knowledge as required from a developer & engineer upon changing my current position as an Android Developer to a much higher position related with Mobile Sofware Engineering.
+My Name is Amir Dehbashi and I am an android developer residing in Iran. Currently, I'm pursuing my master's degree in software engineering.
+Always trying to gain more knowledge about future tech tools and mobile developing methods. Also very fond of ios development and hopefully I'll be able to add this profession to my experience.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
