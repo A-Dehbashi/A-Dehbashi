@@ -7,7 +7,7 @@ Always trying to gain more knowledge about future tech tools and mobile developi
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 💻 Skills & Overviews
+### 💻 Skills & Tools
 
 [![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://www.oracle.com/java)
@@ -16,8 +16,9 @@ Always trying to gain more knowledge about future tech tools and mobile developi
 [![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://trello.com)
 [![](https://img.shields.io/badge/Github-6f42c1?style=flat&logo=Github&logoColor=white)](https://github.com)
 [![](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=Google%20Play&logoColor=white)](https://play.google.com)
-[![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Trello&logoColor=white)](https://Slack.com)
+[![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)](https://Slack.com)
 [![](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com)
+[![](https://img.shields.io/badge/Notion-FE7A16?style=flat&logo=Notion&logoColor=white)](https://notion.so)
 [![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)](https://www.figma.com)
 [![](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white)](https://www.adobe.com/products/xd)
 
