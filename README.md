@@ -3,7 +3,7 @@
 # 👋 Hi There
 
 My Name is Amir Dehbashi and I am an android developer residing in Iran. Currently, I'm pursuing my master's degree in software engineering.
-Always trying to gain more knowledge about future tech tools and mobile developing methods. Also very fond of ios development and hopefully I'll be able to add this profession to my experience.
+Always trying to gain more knowledge about future tech tools and software developing. Also very fond of flutter & ios development and hopefully I'll be able to add this profession to my experience.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
