@@ -12,6 +12,8 @@ One of the major gaps we had in our team was the absence of an experienced teste
 
 ### 💻 Skills & Tools
 
+[![](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white)](https://developer.android.com/studio)
+[![](https://img.shields.io/badge/IntelliJ%20IDEA-f62e5b?style=flat&logo=IntelliJ%20IDEA&logoColor=white)](https://jetbrains.com/idea)
 [![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/Java-007396?style=flat&logo=Oracle&logoColor=white)](https://oracle.com/java)
 [![](https://img.shields.io/badge/Selenium-59b943?style=flat&logo=Selenium&logoColor=white)](https://selenium.dev)
