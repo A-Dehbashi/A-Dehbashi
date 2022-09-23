@@ -1,4 +1,4 @@
-<img src="Header.png" width="fill">
+<img src="Banner.png" width="fill">
 
 # 👋 Hi There
 
