@@ -14,20 +14,20 @@ One of the major gaps we had in our team was the absence of an experienced teste
 
 [![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://www.oracle.com/java)
-[![](https://img.shields.io/badge/Selenium-7f52ff?style=flat&logo=Selenium&logoColor=white)](https://developer.android.com/kotlin)
-[![](https://img.shields.io/badge/Appium-02569b?style=flat&logo=Appium&logoColor=white)](https://flutter.dev)
-[![](https://img.shields.io/badge/Apache%20Jmeter-0e3956?style=flat&logo=Apache%20Jmeter&logoColor=white)](https://dart.dev)
+[![](https://img.shields.io/badge/Selenium-7f52ff?style=flat&logo=Selenium&logoColor=white)](https://www.selenium.dev)
+[![](https://img.shields.io/badge/Appium-02569b?style=flat&logo=Appium&logoColor=white)](https://appium.io)
+[![](https://img.shields.io/badge/Apache%20Jmeter-0e3956?style=flat&logo=Apache%20Jmeter&logoColor=white)](https://jmeter.apache.org/)
 [![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://www.postman.com)
 [![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://trello.com)
 [![](https://img.shields.io/badge/ClickUp-7b68ee?style=flat&logo=ClickUp&logoColor=white)](https://clickup.com)
 [![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)](https://Slack.com)
 [![](https://img.shields.io/badge/Github-6f42c1?style=flat&logo=Github&logoColor=white)](https://github.com)
-[![](https://img.shields.io/badge/Jira-fca121?style=flat&logo=Jira&logoColor=white)](https://gitlab.com)
+[![](https://img.shields.io/badge/Jira-fca121?style=flat&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![](https://img.shields.io/badge/Jenkins-414141?style=flat&logo=Jenkins&logoColor=white)](https://play.google.com)
 [![](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com)
-[![](https://img.shields.io/badge/Microsoft%20Word-FE7A16?style=flat&logo=Microsoft%20Word&logoColor=white)](https://stackoverflow.com)
-[![](https://img.shields.io/badge/Microsoft%20Powerpoint-FE7A16?style=flat&logo=Microsoft%20Powerpoint&logoColor=white)](https://stackoverflow.com)
-[![](https://img.shields.io/badge/Microsoft%20Excel-FE7A16?style=flat&logo=Microsoft%20Excel&logoColor=white)](https://stackoverflow.com)
+[![](https://img.shields.io/badge/Word-FE7A16?style=flat&logo=Microsoft%20Word&logoColor=white)](https://microsoft.com)
+[![](https://img.shields.io/badge/Powerpoint-FE7A16?style=flat&logo=Microsoft%20Powerpoint&logoColor=white)](https://microsoft.com)
+[![](https://img.shields.io/badge/Excel-FE7A16?style=flat&logo=Microsoft%20Excel&logoColor=white)](https://microsoft.com)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
