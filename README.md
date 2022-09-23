@@ -10,7 +10,7 @@ One of the major gaps we had in our team was the absence of an experienced teste
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 💻 Skills & Tools
+### 💻 Skills
 
 [![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/Java-007396?style=flat&logo=Oracle&logoColor=white)](https://oracle.com/java)
@@ -33,13 +33,25 @@ One of the major gaps we had in our team was the absence of an experienced teste
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📌 Products
+### 📌 Experience
 
-(Will Be Available Soon)
+#### Test Specialist <br/>
+  Freelance <br/>
+  Jun 2022 - Present · 4 mos
+  
+#### Thesis Typeset <br/>
+  University of Religions and Denominations · Full-time <br/>
+  Apr 2022 - Jun 2022 · 3 mos <br/>
+  Qom, Iran
+  
+#### Android Developer <br/>
+  Majazeh Group · Full-time <br/>
+  Sep 2017 - Apr 2022 · 4 yrs 8 mos <br/>
+  Qom, Iran
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📋 University Degress
+### 📋 Education
 
 Education | Field | Orientation
 ------------ | ------------- | -------------
@@ -48,7 +60,7 @@ Bachelor | Electrical Engineering | Power Systems
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🌐 Language Speaking
+### 🌐 Languages
 
 * English <br/>
 * Persian <br/>
