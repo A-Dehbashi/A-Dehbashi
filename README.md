@@ -1,12 +1,12 @@
 <img src="Banner.png" width="fill">
 
-<!-- # 👋 Hi There and thanks for viewing my Github profile.
+# 👋 Hi There and thanks for viewing my Github profile.
 
 My name is Amir Dehbashi and I'm a Master's student in Computer Software Engineering at Shahab Danesh University residing in Iran.
 
 I was fortunate to get known to a professional IT company during my university studies and be able to work with their experienced members as an apprentice to develop great ideas and projects. During this time I interacted with different IT fields like web development, mobile app development, ui & ux concepts, group interaction, and team working. After quite some time I managed to secure a role as an Android Developer and work with them for nearly 5 years and participate in some eCommerce, educational, and medical projects.
 
-One of the major gaps we had in our team was the absence of an experienced tester with the ability to test and ensure the quality of our products before deploying them to the customer which had a direct effect on slowing our development and delivery time. When the work wasn't in its prime I took it upon myself to learn the right way of testing the software and increase the quality of our product and this was like a career shift because I liked this more than android development. So for now, I am currently focusing on working as a freelance test specialist with junior experience in manual & automation testing. -->
+One of the major gaps we had in our team was the absence of an experienced tester with the ability to test and ensure the quality of our products before deploying them to the customer which had a direct effect on slowing our development and delivery time. When the work wasn't in its prime I took it upon myself to learn the right way of testing the software and increase the quality of our product and this was like a career shift because I liked this more than android development. So for now, I am currently focusing on working as a freelance test specialist with junior experience in manual & automation testing.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
