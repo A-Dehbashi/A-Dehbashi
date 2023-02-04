@@ -1,8 +1,8 @@
 <img src="Banner.png" width="fill">
 
-# Amir Dehbashi
-## Software Developer
-### Iran
+### Amir Dehbashi
+Software Developer <br/>
+Iran
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -31,7 +31,9 @@ Experienced Software Developer with good skills has been working as part of a te
 ### 💻 Skills
 
 [![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)](https://developer.android.com/studio)
-[![](https://img.shields.io/badge/Java-007396?style=flat&logo=Oracle&logoColor=white)](https://oracle.com/java)
+[![](https://img.shields.io/badge/Flutter-2cb7f6?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev)
+[![](https://img.shields.io/badge/Java-f0931c?style=flat&logo=Oracle&logoColor=white)](https://oracle.com/java)
+[![](https://img.shields.io/badge/Dart-02589b?style=flat&logo=Dart&logoColor=white)](https://dart.dev)
 [![](https://img.shields.io/badge/IntelliJ-f62e5b?style=flat&logo=IntelliJ%20IDEA&logoColor=white)](https://jetbrains.com/idea)
 [![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://trello.com)
 [![](https://img.shields.io/badge/ClickUp-7b68ee?style=flat&logo=ClickUp&logoColor=white)](https://clickup.com)
@@ -40,7 +42,10 @@ Experienced Software Developer with good skills has been working as part of a te
 [![](https://img.shields.io/badge/Powerpoint-b7472a?style=flat&logo=Microsoft%20Powerpoint&logoColor=white)](https://microsoft.com)
 [![](https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft%20Excel&logoColor=white)](https://microsoft.com)
 [![](https://img.shields.io/badge/Selenium-59b943?style=flat&logo=Selenium&logoColor=white)](https://selenium.dev)
-[![](https://img.shields.io/badge/Appium-622e8b?style=flat&logo=appium&logoColor=white)](https://appium.io)
+[![](https://img.shields.io/badge/Appium-622e8b?style=flat&logo=Appium&logoColor=white)](https://appium.io)
+[![](https://img.shields.io/badge/MySql-00758f?style=flat&logo=MySql&logoColor=white)](https://www.mysql.com)
+[![](https://img.shields.io/badge/Sentry-ed7e0b?style=flat&logo=Sentry&logoColor=white)](https://sentry.io)
+[![](https://img.shields.io/badge/Firebase-ed7e0b?style=flat&logo=Firebase&logoColor=white)](https://firebase.google.com)
 [![](https://img.shields.io/badge/Apache%20Jmeter-d22128?style=flat&logo=Apache%20Jmeter&logoColor=white)](https://jmeter.apache.org)
 [![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://postman.com)
 [![](https://img.shields.io/badge/Sonarqube-4c9bd6?style=flat&logo=Sonarqube&logoColor=white)](https://sonarqube.org)
