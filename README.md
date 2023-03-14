@@ -8,7 +8,7 @@ Iran
 
 ### ✔️ About
 
-Experienced Software Developer with good skills has been working as part of a team and individually in this industry for nearly 5 years. Fully committed to what I do and always make sure that the output result is delivered with high quality. Eager to develop new ideas as well as research the latest information technologies available.
+Experienced Software Developer with good skills has been working as part of a team and individually in this industry for nearly 6 years. Fully committed to what I do and always make sure that the output result is delivered with high quality. Eager to develop new ideas as well as research the latest information technologies available.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Experienced Software Developer with good skills has been working as part of a te
 
 #### Professional development <br/>
   Career Break <br/>
-  Jul 2022 - Present · 8 mos
+  Jul 2022 - Present · 9 mos
   
 #### Android Developer <br/>
   Risloo · Full-time <br/>
