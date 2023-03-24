@@ -46,6 +46,7 @@ Experienced Software Developer with good skills has been working as part of a te
 [![](https://img.shields.io/badge/Selenium-59b943?style=flat&logo=Selenium&logoColor=white)](https://selenium.dev)
 [![](https://img.shields.io/badge/Appium-622e8b?style=flat&logo=Appium&logoColor=white)](https://appium.io)
 [![](https://img.shields.io/badge/MySql-00758f?style=flat&logo=MySql&logoColor=white)](https://www.mysql.com)
+[![](https://img.shields.io/badge/SQLite-44a2d4?style=flat&logo=SQLite&logoColor=white)](https://sqlite.org)
 [![](https://img.shields.io/badge/Sentry-622e8b?style=flat&logo=Sentry&logoColor=white)](https://sentry.io)
 [![](https://img.shields.io/badge/Firebase-ed7e0b?style=flat&logo=Firebase&logoColor=white)](https://firebase.google.com)
 [![](https://img.shields.io/badge/Apache%20Jmeter-d22128?style=flat&logo=Apache%20Jmeter&logoColor=white)](https://jmeter.apache.org)
