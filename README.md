@@ -14,23 +14,24 @@ Experienced Mobile Software Developer with good skills has been working as part 
 
 ### 📌 Experience
 
-#### Flutter Developer <br/>
+<h3><img align="center" height="32px" src="crcis.jpg">  Flutter Developer</h3>
   CRCIS - Full-Time <br/>
   Oct 2023 - Present · 3 mos
 
-#### Flutter Developer <br/>
+<h3><img align="center" height="32px" src="mahansoft.jpg">  Flutter Developer</h3>
   MahanSoft - Part-Time <br/>
   Apr 2023 - Present · 9 mos
 
+  <h3><img align="center" height="32px" src="risloo.jpg">  Career Break</h3>
 #### Professional development <br/>
   Career Break <br/>
   Jul 2022 - May 2023 · 11 mos
-  
-#### Android Developer <br/>
+
+  <h3><img align="center" height="32px" src="risloo.jpg">  Android Developer</h3>
   Risloo · Full-time <br/>
   Sep 2020 - Jun 2022 · 1 yr 10 mos <br/>
   
-#### Android Developer <br/>
+  <h3><img align="center" height="32px" src="majazeh.jpg">  Android Developer</h3>
   Majazeh Group · Full-time <br/>
   Sep 2017 - Aug 2020 · 3 yrs <br/>
 
