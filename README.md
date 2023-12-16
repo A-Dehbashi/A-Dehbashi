@@ -47,7 +47,7 @@ Experienced Mobile Software Developer with good skills has been working as part 
 [![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://trello.com)
 [![](https://img.shields.io/badge/ClickUp-7b68ee?style=flat&logo=ClickUp&logoColor=white)](https://clickup.com)
 [![](https://img.shields.io/badge/Jira-2684ff?style=flat&logo=Jira&logoColor=white)](https://atlassian.com/software/jira)
-[![](https://img.shields.io/badge/Swagger-FF6C37?style=flat&logo=Swagger&logoColor=white)](https://swagger.io)
+[![](https://img.shields.io/badge/Swagger-3DDC84?style=flat&logo=Swagger&logoColor=white)](https://swagger.io)
 [![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://postman.com)
 [![](https://img.shields.io/badge/MySql-00758f?style=flat&logo=MySql&logoColor=white)](https://www.mysql.com)
 [![](https://img.shields.io/badge/Sentry-622e8b?style=flat&logo=Sentry&logoColor=white)](https://sentry.io)
