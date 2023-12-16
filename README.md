@@ -1,4 +1,4 @@
-<img src="Banner.png" width="fill">
+<img src="banner.png" width="fill">
 
 ### Amir Dehbashi
 Mobile Software Developer <br/>
@@ -22,7 +22,7 @@ Experienced Mobile Software Developer with good skills has been working as part 
   MahanSoft - Part-Time <br/>
   Apr 2023 - Present · 9 mos
 
-  <h3><img align="center" height="32px" src="risloo.jpg">  Career Break</h3>
+  <h3><img align="center" height="32px" src="career.jpg">  Career Break</h3>
 #### Professional development <br/>
   Career Break <br/>
   Jul 2022 - May 2023 · 11 mos
