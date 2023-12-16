@@ -14,16 +14,15 @@ Experienced Mobile Software Developer with good skills has been working as part 
 
 ### 📌 Experience
 
-<h3><img align="center" height="32px" src="crcis.jpg"> Flutter Developer</h3>
+  <h3><img align="center" height="32px" src="crcis.jpg"> Flutter Developer</h3>
   CRCIS - Full-Time <br/>
   Oct 2023 - Present · 3 mos
 
-<h3><img align="center" height="32px" src="mahansoft.jpg"> Flutter Developer</h3>
+  <h3><img align="center" height="32px" src="mahansoft.jpg"> Flutter Developer</h3>
   MahanSoft - Part-Time <br/>
   Apr 2023 - Present · 9 mos
 
-  <h3><img align="center" height="28px" src="career.jpg"> Career Break</h3>
-#### Professional development <br/>
+  <h3><img align="center" height="28px" src="career.jpg"> Professional development</h3>
   Career Break <br/>
   Jul 2022 - May 2023 · 11 mos
 
@@ -62,12 +61,12 @@ Experienced Mobile Software Developer with good skills has been working as part 
 
 ### 🎓 Education
 
-<h3><img align="center" height="32px" src="crcis.jpg"> Master's degree</h3>
+  <h3><img align="center" height="32px" src="shahabdanesh.jpg"> Master's degree</h3>
   Computer Software Engineering <br/>
   Shahab Danesh University <br/>
   Sep 2020 - Sep 2022 · 2 yrs <br/>
 
-  <h3><img align="center" height="32px" src="crcis.jpg"> Bachlor's degree</h3>
+  <h3><img align="center" height="32px" src="shahabdanesh.jpg"> Bachlor's degree</h3>
   Electric Power Engineering <br/>
   Shahab Danesh University <br/>
   Sep 2014 - Sep 2018 · 4 yrs <br/>
