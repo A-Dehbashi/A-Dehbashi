@@ -48,6 +48,7 @@ A skilled mobile developer who has been in the industry for several years. Commi
 [![](https://img.shields.io/badge/Visual%20Studio-3ca5ea?style=flat&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://trello.com)
 [![](https://img.shields.io/badge/ClickUp-7b68ee?style=flat&logo=ClickUp&logoColor=white)](https://clickup.com)
+[![](https://img.shields.io/badge/Azure-074b8a?style=flat&logo=Azure&logoColor=white)](https://azure.microsoft.com/en-us)
 [![](https://img.shields.io/badge/Jira-2684ff?style=flat&logo=Jira&logoColor=white)](https://atlassian.com/software/jira)
 [![](https://img.shields.io/badge/Swagger-3DDC84?style=flat&logo=Swagger&logoColor=white)](https://swagger.io)
 [![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://postman.com)
