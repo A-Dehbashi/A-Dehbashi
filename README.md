@@ -42,12 +42,10 @@ A skilled mobile developer who has been in the industry for several years. Commi
 
 ### 💻 Skills
 
-[![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/Flutter-2cb7f6?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev)
-[![](https://img.shields.io/badge/Java-f0931c?style=flat&logo=Oracle&logoColor=white)](https://oracle.com/java)
 [![](https://img.shields.io/badge/Dart-02589b?style=flat&logo=Dart&logoColor=white)](https://dart.dev)
 [![](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white)](https://developer.android.com/studio)
-[![](https://img.shields.io/badge/Visual%20Studio%20Code-3ca5ea?style=flat&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Visual%20Studio-3ca5ea?style=flat&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white)](https://trello.com)
 [![](https://img.shields.io/badge/ClickUp-7b68ee?style=flat&logo=ClickUp&logoColor=white)](https://clickup.com)
 [![](https://img.shields.io/badge/Jira-2684ff?style=flat&logo=Jira&logoColor=white)](https://atlassian.com/software/jira)
@@ -60,6 +58,7 @@ A skilled mobile developer who has been in the industry for several years. Commi
 [![](https://img.shields.io/badge/Sonarqube-4c9bd6?style=flat&logo=Sonarqube&logoColor=white)](https://sonarqube.org)
 [![](https://img.shields.io/badge/Git-f54d27?style=flat&logo=Git&logoColor=white)](https://git-scm.com)
 [![](https://img.shields.io/badge/Jenkins-5a6268?style=flat&logo=Jenkins&logoColor=white)](https://jenkins.io)
+[![](https://img.shields.io/badge/gRPC-29555d?style=flat&logo=gRPC&logoColor=white)](https://grpc.io)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
