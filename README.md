@@ -1,26 +1,33 @@
 <img src="banner.png" width="fill">
 
 ### Amir Dehbashi
-Mobile Software Developer <br/>
-Qom Province, Iran
+Flutter Developer <br/>
+Tehran Province, Iran
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ✔️ About
 
-Experienced Mobile Software Developer with good skills has been working as part of a team and individually in this industry for about 6 years. Fully committed to what I do and always make sure that the output result is delivered with high quality. Eager to develop new ideas as well as research the latest information technologies available.
+A skilled mobile developer who has been in the industry for several years. Committed to what he does and always ensures that the product release is of a suitable and targeted quality. His hobbies include working out and watching knowledgeable topics.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📌 Experience
 
+  <h3><img align="center" height="32px" src="ebtekar.jpg"> Flutter Developer</h3>
+  Ebtekar Ertebat Qeshm - Part-Time <br/>
+  June 2024 - Present · 1 yr 3 mos
+  Remote
+
   <h3><img align="center" height="32px" src="crcis.jpg"> Flutter Developer</h3>
   CRCIS - Full-Time <br/>
-  Oct 2023 - Present · 3 mos
+  Oct 2023 - Present · 1 yr 11 mos
+  On-Site
 
   <h3><img align="center" height="32px" src="mahansoft.jpg"> Flutter Developer</h3>
-  MahanSoft - Part-Time <br/>
-  Apr 2023 - Present · 9 mos
+  MahanSoft - Full-Time . Part-Time <br/>
+  Apr 2023 - Jan 2024 · 10 mos
+  On-Site
 
   <h3><img align="center" height="28px" src="career.jpg"> Professional development</h3>
   Career Break <br/>
@@ -29,10 +36,12 @@ Experienced Mobile Software Developer with good skills has been working as part 
   <h3><img align="center" height="32px" src="risloo.jpg"> Android Developer</h3>
   Risloo · Full-time <br/>
   Sep 2020 - Jun 2022 · 1 yr 10 mos <br/>
+  On-Site
   
   <h3><img align="center" height="32px" src="majazeh.jpg"> Android Developer</h3>
   Majazeh Group · Full-time <br/>
   Sep 2017 - Aug 2020 · 3 yrs <br/>
+  On-Site
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
