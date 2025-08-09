@@ -14,7 +14,7 @@ A skilled mobile developer who has been in the industry for several years. Commi
 
 ### 📌 Experience
 
-  <h3><img align="center" height="32px" src="ebtekar.jpg"> Flutter Developer</h3>
+  <h3><img align="center" height="32px" src="ebtekar.png"> Flutter Developer</h3>
   Ebtekar Ertebat Qeshm - Part-Time <br/>
   June 2024 - Present · 1 yr 3 mos
   Remote
