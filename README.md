@@ -15,33 +15,28 @@ A skilled mobile developer who has been in the industry for several years. Commi
 ### 📌 Experience
 
   <h3><img align="center" height="32px" src="ebtekar.png"> Flutter Developer</h3>
-  Ebtekar Ertebat Qeshm - Part-Time <br/>
+  Ebtekar Ertebat Qeshm | Part-Time | Remote <br/>
   June 2024 - Present · 1 yr 3 mos
-  Remote
 
   <h3><img align="center" height="32px" src="crcis.jpg"> Flutter Developer</h3>
-  CRCIS - Full-Time <br/>
+  CRCIS | Full-Time | On-site <br/>
   Oct 2023 - Present · 1 yr 11 mos
-  On-Site
 
   <h3><img align="center" height="32px" src="mahansoft.jpg"> Flutter Developer</h3>
-  MahanSoft - Full-Time . Part-Time <br/>
+  MahanSoft | Full-Time . Part-Time | On-site <br/>
   Apr 2023 - Jan 2024 · 10 mos
-  On-Site
 
   <h3><img align="center" height="28px" src="career.jpg"> Professional development</h3>
   Career Break <br/>
   Jul 2022 - May 2023 · 11 mos
 
   <h3><img align="center" height="32px" src="risloo.jpg"> Android Developer</h3>
-  Risloo · Full-time <br/>
+  Risloo | Full-time | On-site <br/>
   Sep 2020 - Jun 2022 · 1 yr 10 mos <br/>
-  On-Site
   
   <h3><img align="center" height="32px" src="majazeh.jpg"> Android Developer</h3>
-  Majazeh Group · Full-time <br/>
+  Majazeh Group | Full-time | On-site <br/>
   Sep 2017 - Aug 2020 · 3 yrs <br/>
-  On-Site
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
