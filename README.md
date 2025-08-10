@@ -8,7 +8,7 @@ Tehran Province, Iran
 
 ### ✔️ About
 
-A skilled mobile developer who has been in the industry for several years. Committed to what he does and always ensures that the product release is of a suitable and targeted quality. His hobbies include working out and watching knowledgeable topics.
+Mobile developer with diverse skills and several years of experience in the industry. Committed to providing creative solutions and quality products that meet user’s needs and business goals. Interested in continuous learning, exercise, and pursuing scientific and educational content.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
