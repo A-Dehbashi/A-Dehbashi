@@ -120,6 +120,6 @@ Mobile programmer with diverse skills and years of experience in the industry. C
 
 ### 📫 Contact Me
 
+[![](https://img.shields.io/badge/Phone-49a887?style=flat)](tel:+989387719765)
 [![](https://img.shields.io/badge/Gmail-D93025?style=flat)](mailto:a.dehbashi100@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://linkedin.com/in/adehbashi100)
-[![](https://img.shields.io/badge/Telegram-26A5E4?style=flat)](https://telegram.me/a_dehbashi100)
