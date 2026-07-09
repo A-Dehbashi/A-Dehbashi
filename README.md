@@ -40,6 +40,32 @@ Mobile programmer with diverse skills and years of experience in the industry. C
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### 💪 Skills
+
+* Flutter <br/>
+* Dart Language <br/>
+* Object-Oriented Programming (OOP) <br/>
+* Design Patterns <br/>
+* Solid Principles <br/>
+* Software architecture (Clean Architecture) <br/>
+* Version Control (Git) <br/>
+* Services Implementation (Rest, GraphQL, gRPC) <br/>
+* State Management (Bloc, Provider, GetX) <br/>
+* Designing and Customizing Widgets (Responsive UI) <br/>
+* Multilingual Language (l10n, i18n) <br/>
+* Data Management (SQLite, Hive, SharedPreferences, GetStorage) <br/>
+* Build and Release (Inno Setup, CI/CD) <br/>
+* Cache Management and Offline Storage <br/>
+* Familiarity with Test Writing <br/>
+* Technical Documentation <br/>
+* Communication Skills <br/>
+* Problem Solving <br/>
+* Adaptability <br/>
+* Attention to details <br/>
+* Time Management
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 💻 Tools
 
 [![](https://img.shields.io/badge/Flutter-2cb7f6?style=flat)](https://flutter.dev)
@@ -94,7 +120,6 @@ Mobile programmer with diverse skills and years of experience in the industry. C
 
 ### 📫 Contact Me
 
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=flat)](https://wa.me/989387719765)
 [![](https://img.shields.io/badge/Gmail-D93025?style=flat)](mailto:a.dehbashi100@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://linkedin.com/in/adehbashi100)
 [![](https://img.shields.io/badge/Telegram-26A5E4?style=flat)](https://telegram.me/a_dehbashi100)
