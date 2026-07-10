@@ -1,4 +1,4 @@
-<img src="banner.png" width="fill">
+
 
 ### Amir Dehbashi
 Flutter Developer <br/>
