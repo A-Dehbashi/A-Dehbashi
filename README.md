@@ -93,6 +93,9 @@ Mobile programmer with diverse skills and years of experience in the industry. C
 [![](https://img.shields.io/badge/Sonarqube-4c9bd6?style=flat)](https://sonarqube.org)
 [![](https://img.shields.io/badge/Apache%20Jmeter-d22128?style=flat)](https://jmeter.apache.org)
 [![](https://img.shields.io/badge/Inno%20Setup-1A5692?style=flat)](https://jrsoftware.org/isinfo.php)
+[![](https://img.shields.io/badge/ChatGPT-159c7c?style=flat)](https://chatgpt.com/)
+[![](https://img.shields.io/badge/Gemini-338ffc?style=flat)](https://gemini.google.com/)
+[![](https://img.shields.io/badge/Claude-d36c44?style=flat)](https://claude.ai/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
