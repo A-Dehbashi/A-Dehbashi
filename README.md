@@ -16,7 +16,7 @@ Mobile programmer with diverse skills and years of experience in the industry. C
 
   <h3><img align="center" height="32px" src="crcis.jpg"> Flutter Developer</h3>
   CRCIS | Full-Time | On-site <br/>
-  Oct 2023 - Present · 2 yr 8 mos
+  Oct 2023 - Present · 2 yr 10 mos
 
   <h3><img align="center" height="32px" src="ebtekar.png"> Flutter Developer</h3>
   Ebtekar Ertebat Qeshm | Part-Time | Remote <br/>
