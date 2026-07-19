@@ -52,12 +52,14 @@ Mobile programmer with diverse skills and years of experience in the industry. C
 * API Integration <br/>
 * Local Storage & Caching <br/>
 * Responsive UI <br/>
-* Multilingual Language <br/>
-* Version Control <br/>
-* Build, Release & CI/CD <br/>
+* Multilingual Apps <br/>
 * Performance Optimization <br/>
 * Unit & Widget Testing <br/>
 * Debugging & Troubleshooting <br/>
+* CI/CD & App Release <br/>
+* Version Control <br/>
+* Firebase <br/>
+* AI Integration <br/>
 * Technical Documentation <br/>
 * Problem Solving
 
