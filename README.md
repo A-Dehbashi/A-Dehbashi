@@ -18,7 +18,7 @@ Mobile programmer with diverse skills and years of experience in the industry. C
   CRCIS | Full-Time | On-site <br/>
   Oct 2023 - Present · 2 yr 10 mos
 
-  <h3><img align="center" height="32px" src="crcis.jpg"> Flutter Developer</h3>
+  <h3><img align="center" height="32px" src="parto.jpg"> Flutter Developer</h3>
   Parto Hoosh Sharif | Part-Time | Remote <br/>
   Feb 2026 - Apr 2026 · 3 mos
 
