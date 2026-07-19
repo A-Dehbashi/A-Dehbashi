@@ -43,26 +43,23 @@ Mobile programmer with diverse skills and years of experience in the industry. C
 ### 💪 Skills
 
 * Flutter <br/>
-* Dart Language <br/>
-* Object-Oriented Programming (OOP) <br/>
+* Dart <br/>
+* OOP & SOLID <br/>
 * Design Patterns <br/>
-* Solid Principles <br/>
-* Software architecture (Clean Architecture) <br/>
-* Version Control (Git) <br/>
-* Services Implementation (Rest, GraphQL, gRPC) <br/>
-* State Management (Bloc, Provider, GetX) <br/>
-* Designing and Customizing Widgets (Responsive UI) <br/>
-* Multilingual Language (l10n, i18n) <br/>
-* Data Management (SQLite, Hive, SharedPreferences, GetStorage) <br/>
-* Build and Release (Inno Setup, CI/CD) <br/>
-* Cache Management and Offline Storage <br/>
-* Familiarity with Test Writing <br/>
+* Clean Architecture <br/>
+* State Management <br/>
+* Dependency Injection <br/>
+* API Integration <br/>
+* Local Storage & Caching <br/>
+* Responsive UI <br/>
+* Multilingual Language <br/>
+* Version Control <br/>
+* Build, Release & CI/CD <br/>
+* Performance Optimization <br/>
+* Unit & Widget Testing <br/>
+* Debugging & Troubleshooting <br/>
 * Technical Documentation <br/>
-* Communication Skills <br/>
-* Problem Solving <br/>
-* Adaptability <br/>
-* Attention to details <br/>
-* Time Management
+* Problem Solving
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
