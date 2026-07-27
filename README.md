@@ -8,7 +8,7 @@ Tehran Province, Iran
 
 ### ✔️ About
 
-Flutter Developer with 8+ years of experience building Android and Flutter applications. Specialized in scalable architectures, reusable components, state management, and enterprise mobile solutions. Passionate about writing maintainable, high performance software.
+Flutter Developer with 8+ years of experience building Android and Flutter applications. Specialized in scalable architectures, reusable components, state management, and enterprise mobile solutions. Passionate about writing maintainable, high performance softwares.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
