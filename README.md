@@ -16,7 +16,7 @@ Flutter Developer with 8+ years of experience building Android and Flutter appli
 
   <h3><img align="center" height="32px" src="crcis.jpg"> Flutter Developer</h3>
   CRCIS | Full-Time | On-site <br/>
-  Oct 2023 - Present · 2 yr 10 mos
+  Oct 2023 - Present · 2 yrs 10 mos
 
   <h3><img align="center" height="32px" src="parto.jpg"> Flutter Developer</h3>
   Parto Hoosh Sharif | Part-Time | Remote <br/>
