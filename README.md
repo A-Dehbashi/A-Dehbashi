@@ -8,7 +8,7 @@ Tehran Province, Iran
 
 ### ✔️ About
 
-Mobile programmer with diverse skills and years of experience in the industry. Committed to providing creative solutions and quality products that meet user’s needs and business goals. Interested in continuous learning, exercise, and pursuing scientific and educational content.
+Flutter Developer with 8+ years of experience building Android and Flutter applications. Specialized in scalable architectures, reusable components, state management, and enterprise mobile solutions. Passionate about writing maintainable, high performance software.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
