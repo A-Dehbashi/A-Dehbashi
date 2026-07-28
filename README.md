@@ -1,14 +1,14 @@
 <img src="banner.png" width="fill">
 
 ### Amir Dehbashi
-Flutter Developer <br/>
+Senior Flutter Developer <br/>
 Tehran Province, Iran
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ✔️ About
 
-Flutter Developer with 8+ years of experience building Android and Flutter applications. Specialized in scalable architectures, reusable components, state management, and enterprise mobile solutions. Passionate about writing maintainable, high performance softwares.
+Senior Flutter Developer with 8+ years of experience building Android and Flutter applications. Specialized in scalable architectures, reusable components, and enterprise mobile solutions. Passionate about building maintainable, high-performance software.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
