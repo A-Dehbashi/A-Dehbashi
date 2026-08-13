@@ -46,26 +46,26 @@ Software Engineer with 8+ years of experience building Android and Flutter appli
 
 ### 💪 Skills
 
-* Flutter <br/>
-* Dart <br/>
-* OOP & SOLID <br/>
+* Software Design <br/>
+* System Architecture <br/>
 * Design Patterns <br/>
-* Clean Architecture <br/>
-* State Management <br/>
-* Dependency Injection <br/>
+* Cross-Platform Development <br/>
 * API Integration <br/>
-* Local Storage & Caching <br/>
-* Responsive UI <br/>
-* Multilingual Apps <br/>
+* Dependency Injection <br/>
+* State Management <br/>
+* Data Storage & Caching <br/>
 * Performance Optimization <br/>
-* Unit & Widget Testing <br/>
+* Code Quality & Refactoring <br/>
+* Concurrency & Async <br/>
 * Debugging & Troubleshooting <br/>
-* CI/CD & App Release <br/>
-* Version Control <br/>
-* Firebase <br/>
-* AI Integration <br/>
+* CI/CD & Release Automation <br/>
+* Git & Version Control <br/>
+* Backend & Cloud Services <br/>
+* AI/LLM Integration <br/>
+* Internationalization & Localization <br/>
+* Responsive UI Development <br/>
 * Technical Documentation <br/>
-* Problem Solving
+* Team Leadership
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
