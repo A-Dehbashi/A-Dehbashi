@@ -1,14 +1,14 @@
 <img src="banner.png" width="fill">
 
 ### Amir Dehbashi
-Senior Flutter Developer <br/>
+Software Engineer <br/>
 Tehran Province, Iran
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ✔️ About
 
-Senior Flutter Developer with 8+ years of experience building Android and Flutter applications. Specialized in scalable architectures, reusable components, and enterprise mobile solutions. Passionate about building maintainable, high-performance software.
+Software Engineer with 8+ years of experience building Android and Flutter applications. Specialized in designing clean, maintainable software, improving performance, and making technical decisions that help teams build better products.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Senior Flutter Developer with 8+ years of experience building Android and Flutte
   Ebtekar Ertebat Qeshm | Part-Time | Remote <br/>
   June 2024 - Aug 2025 · 1 yr 3 mos
 
-  <h3><img align="center" height="32px" src="mahansoft.jpg"> Flutter Developer</h3>
+  <h3><img align="center" height="32px" src="mahansoft.jpg"> Team Lead</h3>
   MahanSoft | Full-Time . Part-Time | On-site <br/>
   Apr 2023 - Jan 2024 · 10 mos
 
